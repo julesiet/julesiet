@@ -9,4 +9,5 @@ def allaboutme(jules):
 		discord: 'smeme#1368'
 		valorant: 'julesiet#1368'
 		whyareallofthemdifferent: 'i do not know'
+
 ```

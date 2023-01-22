@@ -1,6 +1,6 @@
 
 ``` python
-def allaboutme():
+def allaboutme(jules):
 	pronouns = 'he/she/they (pretty much any <3)'
 	keyboard = gk61 w/ jwick blacks
 	code = ['python', 'javascript', 'html', 'css', 'markdown']

@@ -1,5 +1,3 @@
-<hr>
-
 
 ``` python
 def allaboutme():
@@ -13,5 +11,3 @@ def allaboutme():
 		whyareallofthemdifferent: i do not know
 	}
 ```
-
-<hr>

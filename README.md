@@ -5,9 +5,9 @@ def allaboutme(jules):
 	keyboard = gk61 w/ jwick blacks
 	code = ['python', 'javascript', 'html', 'css', 'markdown']
 	for jules in platforms:
-		instagram = '@juleselv.andrade',
-		discord = 'smeme#1368',
-		valorant = 'julesiet#1368',
+		instagram = '@juleselv.andrade'
+		discord = 'smeme#1368'
+		valorant = 'julesiet#1368'
 		whyareallofthemdifferent = 'i do not know'
 
 ```

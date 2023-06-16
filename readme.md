@@ -6,7 +6,7 @@ def allaboutme(jules):
 	weapons = ['python', 'javascript', 'html', 'css', 'markdown', 'american']
 	socials = {
 		instagram: '@juleselv.andrade',
-		discord: 'smeme#1368',
+		discord: 'smeme1368',
 		minecraft: 'smemer',
 		valorant: 'julesiet#1368'
 		}

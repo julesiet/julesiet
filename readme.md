@@ -2,14 +2,13 @@
 ``` python
 def allaboutme(jules):
 	pronouns = 'he/she/they!'
-	keyboard = gk61 + jwick blacks
-	weapons = ['python', 'javascript', 'html', 'css', 'markdown', 'american']
+	keyboard = keychron_k3
+	languages = ['python', 'javascript', 'html', 'css', 'c++']
 	socials = {
 		instagram: '@juleselv.andrade',
 		discord: 'smeme1368',
-		minecraft: 'smemer',
-		valorant: 'julesiet#1368'
+		linkedin: 'https://www.linkedin.com/in/jules-elvin-andrade/'
 		}
 
-	return "she's trying her best <3"
+	return "aspiring ui/ux + swe designer"
 ```

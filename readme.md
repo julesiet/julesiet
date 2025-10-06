@@ -10,5 +10,5 @@ def allaboutme(jules):
 		linkedin: 'https://www.linkedin.com/in/jules-elvin-andrade/'
 		}
 
-	return "aspiring ui/ux + swe designer"
+	return "aspiring ui/ux designer + swe"
 ```
